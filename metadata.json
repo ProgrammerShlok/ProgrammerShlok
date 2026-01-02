@@ -1,0 +1,8 @@
+
+{
+  "name": "jarvis-stark-hud-v7",
+  "description": "A high-fidelity JARVIS HUD powered by Gemini Live API for real-time voice interaction and system control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
