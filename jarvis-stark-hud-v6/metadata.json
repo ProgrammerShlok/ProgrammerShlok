@@ -1,0 +1,8 @@
+
+{
+  "name": "jarvis-stark-hud-v6",
+  "description": "A fully local, high-fidelity JARVIS HUD with voice control, terminal interface, and secure browser deployment, operating independently of external AI APIs.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
