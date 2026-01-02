@@ -1,7 +1,0 @@
-{
-  "name": "jarvis-hud-v5",
-  "description": "A high-end, sci-fi inspired AI assistant with a futuristic terminal, visual system monitoring, and a hybrid voice/text interface.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
