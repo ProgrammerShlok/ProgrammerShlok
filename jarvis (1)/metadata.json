@@ -1,7 +1,0 @@
-{
-  "name": "Jarvis",
-  "description": "A high-end, sci-fi inspired AI assistant with a futuristic terminal, visual system monitoring, and an interactive holographic keyboard.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
