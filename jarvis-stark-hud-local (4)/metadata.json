@@ -1,0 +1,8 @@
+
+{
+  "name": "jarvis-stark-hud-local",
+  "description": "A high-fidelity JARVIS HUD powered by local browser logic with full voice assistant capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
