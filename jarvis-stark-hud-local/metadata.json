@@ -1,8 +1,0 @@
-
-{
-  "name": "jarvis-stark-hud-local",
-  "description": "A high-fidelity JARVIS HUD powered by local browser logic for zero-latency interaction and system control.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
